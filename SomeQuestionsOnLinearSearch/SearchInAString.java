@@ -7,7 +7,6 @@ public class SearchInAString {
 		char check = 'p';
 		System.out.println(searchCharacter(name, check));
 	}
-	
 	static int searchCharacter(String s, char ch)
 	{
 		for(int i=0;i<s.length();i++)
