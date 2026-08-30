@@ -14,7 +14,7 @@ public class SearchInAString {
 			if(s.charAt(i) == ch)
 				return i;
 		}
-		
+	
 		return -1;
 	}
 
