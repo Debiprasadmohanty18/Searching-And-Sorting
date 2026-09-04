@@ -30,5 +30,4 @@ public class SearchIn2DArray {
 		
 		return new int[] {0};
 	}
-
 }
